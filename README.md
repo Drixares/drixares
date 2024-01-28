@@ -1,7 +1,7 @@
 Hi 👋 My name is Mattéo
 =======================
 
-Student developer
+Web developer student
 -----------------
 
 * 🌍  I'm based in France
