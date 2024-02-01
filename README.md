@@ -5,7 +5,7 @@ Web developer student
 -----------------
 
 * 🌍  I'm based in France
-* 🧠  I'm learning React & Express.
+* 🧠  I'm currently learning Creative Front-End and the basics of backend.
 
 ### Skills
 
