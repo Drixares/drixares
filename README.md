@@ -5,7 +5,7 @@ Web developer student
 -----------------
 
 * 🌍  I'm based in France
-* 🧠  I'm currently learning Creative Front-End and the basics of backend.
+* 🧠  Let's soak up all the knowledge!
 
 ### Skills
 
