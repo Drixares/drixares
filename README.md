@@ -1,5 +1,5 @@
 # Hi there👋 
-I'm Mattéo - A freelance fullstack developer and student at IIM Digital School. I'm interested in code and building projects so i've started learning web development in 2022..
+I'm Mattéo - A freelance fullstack developer and student at IIM Digital School. I'm interested in code and building projects 
 
 ### Currently working with
 [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,express)](https://skillicons.dev)
