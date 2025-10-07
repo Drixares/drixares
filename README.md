@@ -1,17 +1,5 @@
 # Hi there👋 
-I'm Mattéo - A freelance fullstack developer and student at IIM Digital School. I'm interested in code and building projects 
-
-### Currently working with
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,express)](https://skillicons.dev)
-
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,next,symfony,scss,tailwind,jest,discordjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,prisma)](https://skillicons.dev)
-
-### Tools I use
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,notion,figma,vercel)](https://skillicons.dev)
+I'm Mattéo - SWE at [Impulse Lab](https://impulselab.ai) and student at IIM Digital School (Paris). 
 
 <hr>
 <details>
